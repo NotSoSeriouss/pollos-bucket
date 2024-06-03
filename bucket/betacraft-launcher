@@ -1,0 +1,18 @@
+{
+    "version":  "1.09_16",
+    "license":  "GPL-3.0 license",
+    "extract_dir":  "betacraft-launcher",
+    "url":  "https://github.com/betacraftuk/betacraft-launcher/releases/download/1.09_16/launcher-1.09_16-portable.exe",
+    "homepage":  "https://betacraft.uk",
+    "hash":  "13162ea3a914104a267550b49b2dfbfd86da89d035da48071926401fdc615242",
+    "bin":  "launcher-1.09_16-portable.exe",
+	"shortcuts": [
+		[
+			"launcher-1.09_16-portable.exe",
+			"Betacraft"
+		]
+	],
+	"autoupdate": {
+		"url": "https://github.com/betacraftuk/betacraft-launcher/releases/download/$version/launcher-$version-portable.exe"
+	}
+}
