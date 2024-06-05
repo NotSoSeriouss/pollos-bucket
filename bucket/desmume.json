@@ -1,0 +1,14 @@
+{
+	"version":  "release_0_9_13",
+	"license":  "GPL-2.0 license",
+	"url":  "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+	"homepage":  "desmume.org",
+	"hash":  "cbf710b8e6b29f0904e289a9b9a895548a2d7c7af5a3145c8279b97a69a09276",
+	"bin": "DeSmuME_0.9.13_x64.exe",
+	"shortcuts": [
+		[
+			"DeSmuME_0.9.13_x64.exe",
+			"DeSmuMe"
+		]
+	]
+}
